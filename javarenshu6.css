@@ -31,7 +31,6 @@ border-radius: 5px 5px 0 0;
 
 .tab-contents{
   border: 1px solid #ccc;
-  margin: auto;
 }
 .tab-contents-item{
   display: none;
